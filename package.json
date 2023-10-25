@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jan-swiecki/node-hotload"
+    "url": "https://github.com/xk4milx/node-hotload"
   },
   "engines":
   {
@@ -33,6 +33,5 @@
     "name": "Jan Święcki",
     "email": "jan.swiecki@gmail.com",
     "url": "https://github.com/jan-swiecki/node-hotload"
-  },
-  "gitHead": "14a17e38f12c0a3845eefaae7265afe5851b0d12"
+  }
 }
